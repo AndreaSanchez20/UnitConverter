@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Andrea_Sanchez_Assignment1</string>
+    <string-array name="unit">
+        <item>inch</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ton</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+    <string-array name="conversion_inch">
+        <item>0.1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
